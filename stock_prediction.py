@@ -1,3 +1,6 @@
+#Example adapted from 
+#https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import tensorflow as tf
