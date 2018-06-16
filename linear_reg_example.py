@@ -23,7 +23,7 @@ Y = [1.7,2.76,2.09,3.19,1.694,1.573,3.366,2.596,2.53,1.221,2.827,3.465,1.65,2.90
 
 #tflearn provides api's that are easy to work with layers
 
-#input_date is a layer to input data to the network
+#input_data is a layer to input data to the network
 input_ = tflearn.input_data(shape=[None])
 
 #single_unit - a single unit (Linear) layer
